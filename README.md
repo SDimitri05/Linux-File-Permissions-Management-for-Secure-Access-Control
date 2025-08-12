@@ -1,4 +1,4 @@
-# Linux-File-Permissions-Management-for-Secure-Access-Control
+# Linux File Permissions Management for Secure Access Control.
 
 Examined and Modified File Permissions Using Linux Commands to Enforce Authorization Policies.
 
